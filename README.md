@@ -1,35 +1,34 @@
 # 職務経歴書
-
+I also write this document in English [here](./README_en.md)
 
 ## 基本情報
 
-|key|value|
+|利用しているサービス|リンク|
 |---|-----|
-|Name|Toshihiro Tamura|
-|Blog|[neriudon workshop](http://neriudon.blogspot.com/)|
 |Facebook|[Toshihiro Tamura](https://www.facebook.com/toshihiro.tamura.75)|
 |LinkedIn|[Toshihiro Tamura](https://www.linkedin.com/in/toshihiro-tamura-75743914a)|
 |Qiita|[neriudon](https://qiita.com/neriudon)|
 |GitHub|[neriudon](https://github.com/neriudon)|
+|Blog|[neriudon workshop](http://neriudon.blogspot.com/)|
+
 ## スキル
 ### 言語
-
-- プログラミング言語
- - Java
+#### プログラミング言語
+- Java
   - JDK1.4 ~ Java8
-   - シミュレーションやデータマイニング、Web・Androidアプリケーション、複合機への組み込みなど様々な場面での開発経験あり。
- - Groovy
-  - Spock
+    - シミュレーションやデータマイニング、Web・Androidアプリケーション、複合機への組み込みなど様々な場面での開発経験あり。
+- Groovy
+  - 主にSpockでのテストに使用
 - C
   - 大学の講義で学んだ程度。TAとして講義で指導
 - HTML
 - CSS
-  - 簡単な仕様にあわせてデザインが可能
+  - 簡単な仕様にあわせて資料を見ながらデザインが可能
 - JSON
-  - REST APIの実装経験あり。
+  - 業務でREST APIの実装や、Jacksonによる入出力経験あり。
 - XML
- - プログラムからの入出力、SOAPプロトコルによる通信経験あり。
-
+  - 業務でJAXBによる入出力やSOAPプロトコルによる通信経験あり。
+#### 口頭・書式言語
 - 日本語
   - ネイティブ
 - 英語
@@ -37,68 +36,82 @@
   - ドキュメントが読める
 
 ### フレームワーク
-
-- Spring Framework
- - Terasoluna
+- TERASOLUNA Server Framework for Java (5.x)
+  - Spring Framework
+    - Spring MVC
+    - Spring Security
+  - ほかTERASOLUNAがサポートしているフレームワーク
 - Spring Integration
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
+  - http
+  - tcp
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
 - OS
-- Windows
- - XP ~ 10
-- Mac OS
-- Linux
-
+  - Windows
+    - XP ~ 10
+      - 普段から利用している。
+  - Mac OS
+    - 5年程度使用していた。
+  - Linux
+    - 資料を見ながら環境構築ができる。
 - コード管理
- - Git
-  - GitHub
-  - GitLab
-  - GitBucket
-  - ツール
-   - Source Tree
-  - ブランチ戦略
-   - GitHub Flow
-   - Git Flow
- - Subversion
+  - Git
+    - GitHub
+    - GitLab
+    - GitBucket
+    - ツール
+      - Source Tree
+    - ブランチ戦略
+      - GitHub Flow
+      - Git Flow
+  - Subversion
 
 - タスク管理
- - Redmine
+  - Redmine
+- 品質管理
+  - SonarCube
 - CI
- - Jenkins
+  - Jenkins
 - ビルドツール
- - Maven
- - Gradle
+  - Maven
+  - Gradle
 - エディタ
- - Atom
- - Sublime Text3
- - サクラエディタ
+  - Atom
+  - Sublime Text3
+  - サクラエディタ
+- マークアップ言語
+  - Markdown
+  - AsciiDoc
 - IDE
   - Eclipse
   - STS
   - NetBeans
 - Database
- - H2
- - MySQL
- - SQLite
- - PostgreSQL
- - Oracle
+  - H2
+  - MySQL
+  - SQLite
+  - PostgreSQL
+  - Oracle
+- O/R Mapper
+  - MyBatis3
 - APサーバ
- - Tomcat
- - JBoss
- - Wildfly
- - WebLogic
+  - Tomcat
+    - 8.0~
+  - JBoss
+    - EAP6.x, EAP7.x
+  - Wildfly
+    - 10
+  - WebLogic
+    - 12
 
 ## 強み
 
 ## やったことはないが興味があるもの
 
 ## 資格
-基本情報技術者
-アロマテラピー２級
-
+- 基本情報技術者
+- アロマテラピー２級
 
 ## 職務経歴
 ### 平成２１年　４月～平成２５年１０月：学校法人H（アルバイト）
@@ -172,5 +185,15 @@ TERASOLUNA 5.3.0.RELEASEをリリースする案件。以下のタスクをお�
 平成２９年３月にTERASOLUNA 5.3.0.RELEASEをリリースしたあとは、既存の機能テストでタイミングによって失敗するようなテストケースの改修をおこなった。
 その際、どのような状況でテストが失敗するのか、またどのように改善すれば必ず成功するようにできるかを調査し、任されたテストケースのタイミング問題を解決しただけでなく、テストの実行時間の短縮も実現できた。
 
-#### 金融APIの先行調査（平成２９年　７月～現在）
-設計に沿った実装になっているかのコードレビューを実施した。
+#### 金融関連の改修案件（平成２９年　７月～現在）
+##### Spring IntegrationによるPOC
+現行のC++で実装された金融関連のシステムを、Javaに改修するにあたり、どのような課題があるか調査するために約3カ月に渡ってPOCを実施した。フレームワークとしてTERASOLUNA 5.3.0.RELEASEとSpring Integrationを使用し、主にTCP通信の処理に力を入れた。最後には、TERASOLUNA 5.3.0.RELEASEとSpring Integrationの機能で実現できるかどうか、実現できない場合はどのような作りこみが必要になるかを発表した。
+
+##### サンプル開発の設計
+改修にどの程度のコストがかかるかを調査するために、現行のシステムの一部をサンプルとして取り上げ、外部システムとの連携に必要な入出力などの基本設計から、データ構造、プロパティ値、マスタデータなどの詳細設計まで実施した。
+
+##### AP基盤として部品作成
+サンプル開発に必要な機能で業務に依存しないもの（入力チェック・ログ出力・例外ハンドリングなど）を実装した。ただ実装するだけでなく、品質管理のためにSocarCubeを使い、コードの改善・カバレッジの向上を続けた。
+
+##### コードレビュー
+サンプルの開発者のコードが設計通りに実装されているかをレビューし、必要に応じて設計書へフィードバックを実施した。

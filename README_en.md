@@ -1,6 +1,4 @@
-# 職務経歴書
-
-## 基本情報
+## Basic Data
 
 |key|value|
 |---|-----|
@@ -11,29 +9,62 @@
 |SlideShare|[foobar](http://www.slideshare.net/foobar)|
 |Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
 
-## スキル
+## Skills
+### Language
+- Programe Languages
+ - Java
+  - JDK1.4 ~ Java8
+- Groovy
+ - Spock
+- HTML
+- CSS
 
-### 言語
+- Japanese
+  - I am native.
+- English
+  - I can read documents written in English.
+  - I can speak English a little.
 
-- プログラミング言語
+### Frameworks
 
-- 日本語
-  - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
+- Spring Framework
+  - Spring MVC
+  - Spring Integration
 
-### フレームワーク
+- TERASOLUNA Server Framework for Java 5.x
 
-- Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
 
-### その他
+### Other skills (ex. Tools)
 
 - 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- Git
+ - GitHub Flow
+ - Git Flow
 
-## 強み
+ - GitHub
+ - GitLab
+ - GitBucket
 
-## やったことはないが興味があるもの
+- Redmine
+- Jenkins
+- Windows
+- Mac OS
+- Linux
+- Atom
+- Sublime Text
+- Eclipse
+- STS
+- NetBeans
+- H2
+- MySQL
+- SQLite
+- PostgreSQL
+- Oracle
+- ウォーターフォール
+
+## My strength
+
+## My interesting
 
 ## 登壇歴
 
@@ -41,9 +72,6 @@
 
 ## 執筆歴
 
-### 商業
-
-### 同人
 
 ## 職務経歴
 
