@@ -1,5 +1,5 @@
 # 職務経歴書
-I also write this document in English [here](./README_en.md)
+I also write this document in English [here](./README_en.md). But now, work in progress.
 
 ## 基本情報
 
@@ -104,10 +104,12 @@ I also write this document in English [here](./README_en.md)
     - 10
   - WebLogic
     - 12
+- 開発手順
+  - ウォーターフォール
+  - スクラム（２週間のスプリントを３ヶ月間）
 
 ## 強み
-
-## やったことはないが興味があるもの
+自分が面白そうと感じたことに関しては行動力があります。
 
 ## 資格
 - 基本情報技術者
@@ -187,7 +189,7 @@ TERASOLUNA 5.3.0.RELEASEをリリースする案件。以下のタスクをお�
 
 #### 金融関連の改修案件（平成２９年　７月～現在）
 ##### Spring IntegrationによるPOC
-現行のC++で実装された金融関連のシステムを、Javaに改修するにあたり、どのような課題があるか調査するために約3カ月に渡ってPOCを実施した。フレームワークとしてTERASOLUNA 5.3.0.RELEASEとSpring Integrationを使用し、主にTCP通信の処理に力を入れた。最後には、TERASOLUNA 5.3.0.RELEASEとSpring Integrationの機能で実現できるかどうか、実現できない場合はどのような作りこみが必要になるかを発表した。
+現行のC++で実装された金融関連のシステムを、Javaに改修するにあたり、どのような課題があるか調査するために約3カ月に渡ってPOCを実施した。POCでは、２週間毎に目的を設定したスクラム開発をおこなった。フレームワークとしてTERASOLUNA 5.3.0.RELEASEとSpring Integrationを使用し、主にTCP通信の処理に力を入れた。最後には、TERASOLUNA 5.3.0.RELEASEとSpring Integrationの機能で実現できるかどうか、実現できない場合はどのような作りこみが必要になるかを発表した。
 
 ##### サンプル開発の設計
 改修にどの程度のコストがかかるかを調査するために、現行のシステムの一部をサンプルとして取り上げ、外部システムとの連携に必要な入出力などの基本設計から、データ構造、プロパティ値、マスタデータなどの詳細設計まで実施した。
