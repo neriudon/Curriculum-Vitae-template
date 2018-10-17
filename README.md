@@ -1,5 +1,5 @@
 # 職務経歴書
-I also write this document in English [here](./README_en.md). But now, work in progress.
+I have started to also write this document in English [here](./README_en.md). But now, work in progress.
 
 ## 基本情報
 
@@ -15,7 +15,7 @@ I also write this document in English [here](./README_en.md). But now, work in p
 ### 言語
 #### プログラミング言語
 - Java
-  - JDK1.4 ~ Java8
+  - 1.4 ~ 8
     - シミュレーションやデータマイニング、Web・Androidアプリケーション、複合機への組み込みなど様々な場面での開発経験あり。
 - Groovy
   - 主にSpockでのテストに使用
@@ -28,6 +28,9 @@ I also write this document in English [here](./README_en.md). But now, work in p
   - 業務でREST APIの実装や、Jacksonによる入出力経験あり。
 - XML
   - 業務でJAXBによる入出力やSOAPプロトコルによる通信経験あり。
+- Kotlin
+  - 勉強中  
+
 #### 口頭・書式言語
 - 日本語
   - ネイティブ
@@ -104,12 +107,22 @@ I also write this document in English [here](./README_en.md). But now, work in p
     - 10
   - WebLogic
     - 12
+- Office
+  - Word
+  - Excel
+  - Power Point
+  - Visio
 - 開発手順
   - ウォーターフォール
   - スクラム（２週間のスプリントを３ヶ月間）
 
 ## 強み
-自分が面白そうと感じたことに関しては行動力があります。
+- 自分が面白そうと感じたことに関しては行動力があります。
+- これまでのバックエンドの経験を活かします！
+
+## 関心があるもの
+- Chat Bot(Twitter 4j + Google Apps Engineでbot運用経験あり)
+- FinTech
 
 ## 資格
 - 基本情報技術者
@@ -199,3 +212,6 @@ TERASOLUNA 5.3.0.RELEASEをリリースする案件。以下のタスクをお�
 
 ##### コードレビュー
 サンプルの開発者のコードが設計通りに実装されているかをレビューし、必要に応じて設計書へフィードバックを実施した。
+
+## 特記事項
+就労にあたり、いくつか条件があります。詳しくはLinkedInでお問い合わせください。
