@@ -1,9 +1,9 @@
-# 職務経歴書
+# Curriculum Vitae
 日本語版は[こちら](./README.md)。
 
-## 基本情報
+## My Information
 
-|利用しているサービス|リンク|
+|SNS etc.|links|
 |---|-----|
 |Facebook|[Toshihiro Tamura](https://www.facebook.com/toshihiro.tamura.75)|
 |LinkedIn|[Toshihiro Tamura](https://www.linkedin.com/in/toshihiro-tamura-75743914a)|
@@ -11,45 +11,44 @@
 |GitHub|[neriudon](https://github.com/neriudon)|
 |Blog|[neriudon workshop](http://neriudon.blogspot.com/)|
 
-## スキル
-### 言語
-#### プログラミング言語
+## Skills
+### Languages
+#### Programing Languages
 - Java
   - 1.4 ~ 8
-    - シミュレーションやデータマイニング、Web・Androidアプリケーション、複合機への組み込みなど様々な場面での開発経験あり。
+    - simurations, data mining, web applications, Android applications, embedded applications to MFP and etc.
 - Groovy
-  - 主にSpockでのテストに使用
+  - mainly using for Spock which is testing library
 - C
-  - 大学の講義で学んだ程度。TAとして講義で指導
+  - just studying at Univ. and teach it to the students as a TA
 - HTML
 - CSS
-  - 簡単な仕様にあわせて資料を見ながらデザインが可能
+  - beginner level
 - JSON
-  - 業務でREST APIの実装や、Jacksonによる入出力経験あり。
+  - design and implement REST API, using in programs by Jackson library
 - XML
-  - 業務でJAXBによる入出力やSOAPプロトコルによる通信経験あり。
+  - using in programs by JAXB and communicate with SOAP protocol
 - Kotlin
-  - 勉強中  
+  - now studying  
 
-#### 口頭・書式言語
-- 日本語
-  - ネイティブ
-- 英語
-  - かんたんな日常会話ができる(英検準2級)
-  - ドキュメントが読める
+#### Communication
+- Japanese
+  - native
+- English
+  - easy conversation
+  - read documents
 
-### フレームワーク
+### Frameworks
 - TERASOLUNA Server Framework for Java (5.x)
   - Spring Framework
     - Spring MVC
     - Spring Security
-  - ほかTERASOLUNAがサポートしているフレームワーク
+  - and frameworks supported by TERASOLUNA
 - Spring Integration
   - http
   - tcp
 
-### その他
-
+### Others
 - OS
   - Windows
     - XP ~ 10
@@ -58,32 +57,31 @@
     - 5年程度使用していた。
   - Linux
     - 資料を見ながら環境構築ができる。
-- コード管理
+- Code Management
   - Git
     - GitHub
     - GitLab
     - GitBucket
-    - ツール
+    - Tools
       - Source Tree
     - ブランチ戦略
       - GitHub Flow
       - Git Flow
   - Subversion
-
-- タスク管理
+- Task Management
   - Redmine
 - 品質管理
   - SonarCube
 - CI
   - Jenkins
-- ビルドツール
+- Build tools
   - Maven
   - Gradle
-- エディタ
+- Text Editor
   - Atom
   - Sublime Text3
-  - サクラエディタ
-- マークアップ言語
+  - Sakura Editor
+- Markup Languages
   - Markdown
   - AsciiDoc
 - IDE
@@ -98,7 +96,9 @@
   - Oracle
 - O/R Mapper
   - MyBatis3
-- APサーバ
+- GUI
+  - JavaFX
+- AP Servers
   - Tomcat
     - 8.0~
   - JBoss

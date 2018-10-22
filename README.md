@@ -98,6 +98,8 @@ I have started to also write this document in English [here](./README_en.md). Bu
   - Oracle
 - O/R Mapper
   - MyBatis3
+- GUI
+  - JavaFX
 - APサーバ
   - Tomcat
     - 8.0~
