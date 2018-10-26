@@ -73,7 +73,7 @@ I have started to also write this document in English [here](./README_en.md). Bu
 - タスク管理
   - Redmine
 - 品質管理
-  - SonarCube
+  - SonarQube
 - CI
   - Jenkins
 - ビルドツール
